@@ -1,4 +1,4 @@
-exercice_rails
+exercice-rails
 ==============
 
-Exercices pour apprendre Ruby On Rails
+Quelques exercices pour apprendre Ruby On Rails.
