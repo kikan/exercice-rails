@@ -1,0 +1,8 @@
+title: Exercices avec Ruby On Rails
+description: Exercices pour apprendre Ruby On Rails
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
